@@ -1,26 +1,13 @@
 {
-  "name": "xy.js",
+  "name": "xy-lib-v2",
   "version": "1.0.0",
-  "description": "y = f(x) function curve visualization in js canvas 2d ",
-  "main": "./package/index.js",
-  "directories": {
-    "test": "test"
-  },
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/jinhuafe/xy.js.git"
-  },
-  "keywords": [
-    "function",
-    "curve"
-  ],
-  "author": "wangjinhua",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jinhuafe/xy.js/issues"
-  },
-  "homepage": "https://github.com/jinhuafe/xy.js#readme"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
 }
